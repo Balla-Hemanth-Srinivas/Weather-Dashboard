@@ -59,9 +59,7 @@ Delhi, IN
    ```
    YOUR_API_KEY=your_openweathermap_key_here
    ```
-   ```
   Get API key from https://openweathermap.org/api
-  ```
 
 2. Clone the repository  
    ```bash
